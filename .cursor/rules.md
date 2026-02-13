@@ -5,7 +5,7 @@
 - Spring Boot 3.5.11
 - gradle
 - MySQL 8
-# - Redis
+## - Redis
 
 ## Architecture
 - Layered Architecture
@@ -19,17 +19,25 @@
 - Null 반환 금지 (Optional 사용)
 - Magic Number 금지
 
-/**
-## Security
-- JWT 인증 필수
-- Password BCrypt
-- Global Exception Handler 필수
 
-## Testing
-- JUnit5 필수
-- Service 테스트 작성
+[//]: # (## Security)
 
-## Documentation
-- Swagger(OpenAPI) 필수
-- README 최신 유지
-*/
+[//]: # (- JWT 인증 필수)
+
+[//]: # (- Password BCrypt)
+
+[//]: # (- Global Exception Handler 필수)
+
+[//]: # ()
+[//]: # (## Testing)
+
+[//]: # (- JUnit5 필수)
+
+[//]: # (- Service 테스트 작성)
+
+[//]: # ()
+[//]: # (## Documentation)
+
+[//]: # (- Swagger&#40;OpenAPI&#41; 필수)
+
+[//]: # (- README 최신 유지)
