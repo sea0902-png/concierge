@@ -18,7 +18,13 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
-# .idea
+# Ignore personal config only
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+.idea/dataSources/
+.idea/dataSources.local.xml
+
 *.iws
 *.iml
 *.ipr
